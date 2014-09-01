@@ -5,3 +5,4 @@ Slightly updated legacy code base for Visual Flow Coder tools (circa 1999) for W
 
 These tools will have several related branches.  Since I am still learning GITHUB these branches may end up merging into multiple new trunks and may be setup later as new repositories.
 
+Please follow the GNU Public License on this document.
